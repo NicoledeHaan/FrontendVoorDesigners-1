@@ -10,6 +10,7 @@ Vervolgens ben ik begonnen met het coderen van mijn idee. Ik begon bij het maken
 https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/2#issue-571571108
 
 Daarna heb ik alle foto's met titels naast elkaar gezet ipv onderelkaar. Verder heb ik het zwarte harte niet naast de foto gezet maar in de foto. Bekijk in de link hieronder de tweede versie van de site:
+https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/3#issue-571571622
 
 Vervolgens wilde ik dat wanneer je op het hartje klikt je in het rode hartje een teller gaat lopen, zodat je weet hoeveel films in je favorieten heb staan. Bekijk in de link hieronder de derde versie van de site:
 
