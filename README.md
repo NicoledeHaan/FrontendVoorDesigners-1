@@ -13,5 +13,6 @@ Daarna heb ik alle foto's met titels naast elkaar gezet ipv onderelkaar. Verder 
 https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/3#issue-571571622
 
 Vervolgens wilde ik dat wanneer je op het hartje klikt je in het rode hartje een teller gaat lopen, zodat je weet hoeveel films in je favorieten heb staan. Bekijk in de link hieronder de derde versie van de site:
+https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/4#issue-571571724
 
 Als laatste heb ik ervoor gezorgt dat het zwarte hartje in de film rood wordt zodra je erop geklikt hebt (zodat je weet dat het is toegevoegt aan je favorieten) als je er nog een keer op klikt verwijder je het weer uit je favorieten dus wordt het hartje weer zwart. Bekijk in de link hieronder de vierde versie van de site:
