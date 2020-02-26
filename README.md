@@ -17,3 +17,5 @@ https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/4#issue-571571724
 
 Als laatste heb ik ervoor gezorgt dat het zwarte hartje in de film rood wordt zodra je erop geklikt hebt (zodat je weet dat het is toegevoegt aan je favorieten) als je er nog een keer op klikt verwijder je het weer uit je favorieten dus wordt het hartje weer zwart. Bekijk in de link hieronder de vierde versie van de site:
 https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/5#issue-571578405
+
+Verder had ik nog graag gewild dat wanneer je iets verwijdert uit je favorieten de teller dit eraf haalt, hij telt nu alleen maar op maar niet af. Als laatste wilde ik dat als je op het hartje klikt je een uitschuif menu krijgt dat je alle films ziet die je heb toegevoegt en als je twee keer op het hartje klikt je een pop-up krijgt of je zeker weet dat je het wilt verwijderen uit je favorieten. Dit is mij helaas niet gelukt om met code uit te werken.
