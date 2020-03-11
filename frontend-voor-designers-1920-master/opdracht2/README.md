@@ -17,6 +17,6 @@ Vervolgens wilde ik de gebruiker feedback geven over hoeveel foto's er zijn en w
 
 
 Ik wilde dat de bolletjes ook werkte, dus een kleur kreeg op welke foto je bent. Verder heb ik buttons aan de linker en rechter kant geplaatst, je kan op deze manier door de foto's heen. Verder heb ik de site iets netter gemaakt door de foto's een goed formaat te geven en een ruimte tussen de foto's aan te geven. Bekijk hieronder de vierde versie van de site:
-https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/5#issue-571578405
+<img width="885" alt="Schermafbeelding 2020-03-11 om 12 37 52" src="https://user-images.githubusercontent.com/58775312/76418068-46153900-639e-11ea-8d75-9bf793f5896d.png">
 
 Verder had ik nog graag gewild dat wanneer je iets verwijdert uit je favorieten de teller dit eraf haalt, hij telt nu alleen maar op maar niet af. Als laatste wilde ik dat als je op het hartje klikt je een uitschuif menu krijgt dat je alle films ziet die je heb toegevoegt en als je twee keer op het hartje klikt je een pop-up krijgt of je zeker weet dat je het wilt verwijderen uit je favorieten. Dit is mij helaas niet gelukt om met code uit te werken.
