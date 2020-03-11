@@ -4,7 +4,7 @@ Werk een functionaliteit uit die je kunt bedienen met 'click' en nog een user in
 - Carousel met vakantiefoto's: Een carousel met meerdere foto's van een vakantie, die je kan bedienen met een button en met de pijltjes op het toetsenbord.
 
 Ik ben begonnen met het schetsen van mijn eerste idee. Mijn idee is om een carousel te maken met vakantiefoto's. Ik wil dat je de foto helemaal te zien krijgt en vervolgens buttons op het scherm heb links en rechts, als je hier op klikt krijg je de voglende afbeelding te zien etc. Verder wil ik dat de carousel ook te bedienen is met tabben en eventueel toetsenbord. Om de gebruiker feedback te geven hoeveel foto's er zijn en waar hij/zij nu is wil ik onderin bolletjes plaatsen en dat bijvoorbeeld het tweede bolletje gevuld is als je de tweede foto te zien krijgt. Hieronder vind je mijn volledige idee geschetst:
-https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/6#issue-579236139
+![281e83bb-1c46-49ce-86d0-e19e9b330e06](https://user-images.githubusercontent.com/58775312/76421804-82e42e80-63a4-11ea-8469-adc6156ecc3b.jpg)
 
 Vervolgens ben ik begonnen met het coderen van mijn idee. Ik begon met de titel en de foto's onder elkaar te plaatsen op de site. Bekijk hieronder de eerste versie van de site:
 <img width="1438" alt="Schermafbeelding 2020-03-05 om 13 16 54" src="https://user-images.githubusercontent.com/58775312/76417914-0b130580-639e-11ea-9b1e-06fa98caea3c.png">
