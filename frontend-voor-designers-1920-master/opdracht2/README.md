@@ -7,7 +7,7 @@ Ik ben begonnen met het schetsen van mijn eerste idee. Mijn idee is om een carou
 https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/6#issue-579236139
 
 Vervolgens ben ik begonnen met het coderen van mijn idee. Ik begon met de titel en de foto's onder elkaar te plaatsen op de site. Bekijk hieronder de eerste versie van de site:
-https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/2#issue-571571108
+<img width="1438" alt="Schermafbeelding 2020-03-05 om 13 16 54" src="https://user-images.githubusercontent.com/58775312/76417914-0b130580-639e-11ea-9b1e-06fa98caea3c.png">
 
 Daarna heb ik alle foto's in plaats van onderelkaar naast elkaar geplaats, zodat de gebruiker makkelijk kan klikken tussen de foto's in het eindresultaat. Bekijk  hieronder de tweede versie van de site:
 https://github.com/NicoledeHaan/FrontendVoorDesigners-1/issues/3#issue-571571622
